@@ -82,3 +82,19 @@ Business Recommendations
 - Consider budget airlines for price-sensitive travel.
 - Choose late-night departures for lower average fares.
 - Compare one-stop flights to reduce travel costs.
+
+Dashboard Screenshots
+Executive Overview
+<img width="1261" height="722" alt="Project_OverView" src="https://github.com/user-attachments/assets/aa7cf8dc-045c-4b46-8833-abe631bf2f5b" />
+
+Booking Intelligence
+<img width="1281" height="712" alt="DashBoard_1" src="https://github.com/user-attachments/assets/9210e601-6934-45fb-b026-93c494c13710" />
+
+Flight Operations Analysis
+<img width="1295" height="712" alt="DashBoard_3" src="https://github.com/user-attachments/assets/981c91e9-70cc-4ad3-918f-50999edb591a" />
+
+Insights & Recommendations
+<img width="1297" height="727" alt="KEY INSIGHTS AND RECOMMADATIONS" src="https://github.com/user-attachments/assets/0e569e13-ddfd-401a-92ff-b09c232e4365" />
+
+
+
