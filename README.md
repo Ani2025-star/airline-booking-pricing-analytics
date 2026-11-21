@@ -85,10 +85,10 @@ Business Recommendations
 
 Dashboard Screenshots
 Executive Overview
-<img width="1261" height="722" alt="Project_OverView" src="https://github.com/user-attachments/assets/aa7cf8dc-045c-4b46-8833-abe631bf2f5b" />
+<img width="1281" height="712" alt="DashBoard_1" src="https://github.com/user-attachments/assets/7a854885-b488-47cb-af30-12248013615d" />
 
 Booking Intelligence
-<img width="1281" height="712" alt="DashBoard_1" src="https://github.com/user-attachments/assets/9210e601-6934-45fb-b026-93c494c13710" />
+<img width="1307" height="711" alt="DashBoard_2" src="https://github.com/user-attachments/assets/73096d8a-2b0f-45d3-9c9e-0d1bd585fa09" />
 
 Flight Operations Analysis
 <img width="1295" height="712" alt="DashBoard_3" src="https://github.com/user-attachments/assets/981c91e9-70cc-4ad3-918f-50999edb591a" />
